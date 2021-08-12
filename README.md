@@ -13,7 +13,7 @@ Me encanta la programacion 👨‍💻 y los videojuegos 🎮
 
 ###  ¿Donde me forme como programador? 👀
 
-Obtuve y pude consolidar muchos de mis conocimientos gracias Henry <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFmbl7-2v-CnQ/company-logo_100_100/0/1626196872890?e=1636588800&v=beta&t=Cqt5S1FClvANEB_NKMxDJzmSbldGd8FiMIu96qWDWW4" alt="My cool logo"  height="20"/> 
+Obtuve y pude consolidar muchos de mis conocimientos gracias a Henry <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFmbl7-2v-CnQ/company-logo_100_100/0/1626196872890?e=1636588800&v=beta&t=Cqt5S1FClvANEB_NKMxDJzmSbldGd8FiMIu96qWDWW4" alt="My cool logo"  height="20"/> 
 y siendo autodidacto 🤓
 
 ###  Algunas de las tecnologias que manejo 🛠

@@ -18,7 +18,7 @@ y siendo autodidacto. 🤓
 
 ###  ¿A que aspiro? 👀
 
-Busco mejor aún mas como programador, además de adquirir nuevas herramientas y un mejor desarrollo profesional.
+Busco mejorar aún mas como programador, además de adquirir nuevas herramientas y un mejor desarrollo profesional.
 
 <img src="https://i.pinimg.com/originals/5a/52/3d/5a523d3015880ee4199b54b9d7a967f6.gif" alt="My cool logo"  height="400" width="800"/>
 

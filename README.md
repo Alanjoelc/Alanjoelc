@@ -9,14 +9,20 @@ Soy full stack developer residente en <img src="https://planificatuviaje.es/wp-c
 
 ###  ¿Que intereses tengo? 👀
 
-Me encanta la programacion 👨‍💻 y los videojuegos 🎮
+Me encanta la programacion 👨‍💻 y los videojuegos. 🎮
 
 ###  ¿Donde me forme como programador? 👀
 
 Obtuve y pude consolidar muchos de mis conocimientos gracias a Henry <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFmbl7-2v-CnQ/company-logo_100_100/0/1626196872890?e=1636588800&v=beta&t=Cqt5S1FClvANEB_NKMxDJzmSbldGd8FiMIu96qWDWW4" alt="My cool logo"  height="20"/> 
-y siendo autodidacto 🤓
+y siendo autodidacto. 🤓
 
-###  Algunas de las tecnologias que manejo 🛠
+###  ¿A que aspiro? 👀
+
+Busco mejor aún mas como programador, además de adquirir nuevas herramientas y un mejor desarrollo profesional.
+
+<img src="https://i.pinimg.com/originals/5a/52/3d/5a523d3015880ee4199b54b9d7a967f6.gif" alt="My cool logo"  height="400" width="800"/>
+
+###  🛠 Algunas de las tecnologias que manejo 🛠
 
 <img src="https://www.pngrepo.com/png/183637/512/html5.png" alt="My cool logo"  height="50" /> <img src="https://cdn.iconscout.com/icon/free/png-256/css3-9-1175237.png" alt="My cool logo"  height="50" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="My cool logo"  height="50" />
@@ -25,17 +31,4 @@ y siendo autodidacto 🤓
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="My cool logo"  height="50" /><img src="https://brandslogos.com/wp-content/uploads/images/large/sequelize-logo.png"  alt="My cool logo"  height="50" />
 <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" alt="My cool logo"  height="50" />
 
-<!--
-**Alanjoelc/Alanjoelc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

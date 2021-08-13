@@ -24,11 +24,9 @@ Busco mejorar aún mas como programador, además de adquirir nuevas herramientas
 
 ###  🛠 Algunas de las tecnologias que manejo 🛠
 
-<img src="https://www.pngrepo.com/png/183637/512/html5.png" alt="My cool logo"  height="50" /> <img src="https://cdn.iconscout.com/icon/free/png-256/css3-9-1175237.png" alt="My cool logo"  height="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="My cool logo"  height="50" />
-<img src="https://brandslogos.com/wp-content/uploads/thumbs/nodejs-icon-logo.png" alt="My cool logo"  height="50" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="My cool logo"  height="50" />
-<img src="https://lh3.googleusercontent.com/proxy/WH62KVgYI3nUEUm1pspey5M3kW_yiwVgXBUvFoO0n3md6TjmOU7J4Voa6LAWIojb5PelWDuzgLeQ38A3Z3uLmdpuT1KZ4oKcsmt_DVzt0YWzrBkHcg" alt="My cool logo"  height="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="My cool logo"  height="50" /><img src="https://brandslogos.com/wp-content/uploads/images/large/sequelize-logo.png"  alt="My cool logo"  height="50" />
-<img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" alt="My cool logo"  height="50" />
-
-
+<img src="https://i.ibb.co/Qv7Xxkh/68747470733a2f2f7777772e706e677265706f2e636f6d2f706e672f3138333633372f3531322f68746d6c352e706e67.png" alt="My cool logo"  height="50" /> <img src="https://i.ibb.co/kX324q0/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f637373332d39.png" alt="My cool logo"  height="50" />
+<img src="https://i.ibb.co/d5kbJ5Q/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36.png" alt="My cool logo"  height="50" />
+<img src="https://i.ibb.co/Px2LCcG/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f746875.png" alt="My cool logo"  height="50" /><img src="https://i.ibb.co/p3Hcpc0/68747470733a2f2f6272616e64736c6f676f732e636f6d2f77702d636f6e74656e742f75706c6f6164732f7468756d62732f.png" alt="My cool logo"  height="50" />
+<img src="https://i.ibb.co/q0s9Dz2/68747470733a2f2f6272616e64736c6f676f732e636f6d2f77702d636f6e74656e742f75706c6f6164732f696d616765732f.png" alt="My cool logo"  height="50" />
+<img src="https://i.ibb.co/WzrX1dx/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f746875.png" alt="My cool logo"  height="50" />
+<img src="https://i.ibb.co/njRfyd3/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f70726f78792f574836324b5667594933.png" alt="My cool logo"  height="50" />
